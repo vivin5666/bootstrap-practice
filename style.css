@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway", sans-serif !important ;
+}
+.navbar{
+     background-color: #4158D0;
+     background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+.tom{
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    border-radius: 10px;
+}
+
+.nav-link:hover{
+    color:black !important;
+    background-color: #F94DD4;
+}   
+.btn-primary:hover{
+    color:black !important;
+    background-color: #F94DD4 !important;
+}
+.butn{
+    background-color: #F94DD4 !important;
+    border:none;
+    color: black;
+    font-weight: bold !important; 
+}
+.butn{
+    font-weight: bold !important;
+}
+
+img{
+    height: 300px;
+}
+.image-fluid{
+    height: auto;
+    width: auto;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    border-radius: 10px;
+}
+.nav{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    
+}
+.footer-section{
+    background-color: black;
+    color: white
+}
+.tmt{
+    color: #7209b7
+}
+.accordion-button:hover{
+     background-color: black;
+     color: white;
+}
